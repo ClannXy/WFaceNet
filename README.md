@@ -37,7 +37,7 @@
 ## Results
 
   * You can just run the `lfw_eval.py` to get the result, the accuracy on LFW like this:
-
+```
     1    99.33
     2    99.33
     3    99.67
@@ -48,14 +48,15 @@
     8    99.50
     9    99.83
    10    99.67
-   --------
+   
    AVE    99.35
-
+```
   ```
       python3 lfw_eval.py --resume --feature_save_dir
       ```
       * `--resume:` path of saved model
       * `--feature_save_dir:` path to save the extracted features (must be .mat file)
+  ```
 
 ## Reference resources
 
