@@ -38,18 +38,18 @@
 
   * You can just run the `lfw_eval.py` to get the result, the accuracy on LFW like this:
 
-  1    99.33
-  2    99.33
-  3    99.67
-  4    98.83
-  5    98.83
-  6    99.67
-  7    98.83
-  8    99.50
-  9    99.83
- 10    99.67
---------
-AVE    99.35
+    1    99.33
+    2    99.33
+    3    99.67
+    4    98.83
+    5    98.83
+    6    99.67
+    7    98.83
+    8    99.50
+    9    99.83
+   10    99.67
+   --------
+   AVE    99.35
 
   ```
       python3 lfw_eval.py --resume --feature_save_dir
