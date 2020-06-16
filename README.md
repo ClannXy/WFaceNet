@@ -15,7 +15,7 @@
 
 ### Part 1: Preprocessing
 
-* Download the aligned images at [Align-CASIA-WebFace@BaiduDrive](https://pan.baidu.com/s/1rLfuxHdu0prH-_2B0yWaBg)(code:f9xx) and [Align-LFW@BaiduDrive](https://pan.baidu.com/s/1XZyRmzTo8j699Ezpg-VySQ)(code:82gh).
+* Download the aligned images at [CASIA-WebFace@BaiduDrive](https://pan.baidu.com/s/1rLfuxHdu0prH-_2B0yWaBg)(code:f9xx) and [LFW@BaiduDrive](https://pan.baidu.com/s/1XZyRmzTo8j699Ezpg-VySQ)(code:82gh).
 
 ### Part 2: Train
 
